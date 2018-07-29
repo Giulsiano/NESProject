@@ -1,0 +1,5 @@
+*.sky
+obj_*
+*.map
+symbols.*
+*.a
